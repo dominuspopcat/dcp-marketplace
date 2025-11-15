@@ -20,12 +20,12 @@ export default function Products({ category }: ProductsProps) {
     },
     {
       id: 2,
-      name: "Stylish Hat",
+      name: "rizzing ugc",
       category: "ugc",
-      images: ["/product2.png"],
-      priceInDollar: 8.50,
-      priceInRobux: 699,
-      link: "https://www.roblox.com/catalog/987654321"
+      images: ["/101im.png"],
+      priceInDollar: 0.93,
+      priceInRobux: 75,
+      link: "https://www.roblox.com/catalog/70684627582419/chatgptsquarepants"
     },
     {
       id: 3,
