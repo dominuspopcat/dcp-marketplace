@@ -11,57 +11,57 @@ export default function Products({ category }: ProductsProps) {
   const allProducts = [
     {
       id: 1,
-      name: "Cool Jacket",
-      category: "ugc",
-      images: ["/aproofie.png"],
-      priceInDollar: 15.99,
-      priceInRobux: 1299,
-      link: "https://www.roblox.com/catalog/123456789"
+      name: "Green DCP productions shirt",
+      category: "shirts",
+      images: ["/grenny.png"],
+      priceInDollar: 0.09,
+      priceInRobux: 7,
+      link: "https://www.roblox.com/catalog/139779926115544/Green-DCP-productions-shirt"
     },
     {
       id: 2,
-      name: "rizzing ugc",
-      category: "ugc",
-      images: ["/101im.png"],
-      priceInDollar: 0.93,
-      priceInRobux: 75,
-      link: "https://www.roblox.com/catalog/70684627582419/chatgptsquarepants"
+      name: "Blue DCP productions shirt",
+      category: "shirts",
+      images: ["/bluely.png"],
+      priceInDollar: 0.09,
+      priceInRobux: 7,
+      link: "https://www.roblox.com/catalog/127517652637346/Blue-DCP-productions-shirt"
     },
     {
       id: 3,
-      name: "Premium Shirt",
+      name: "Red DCP productions Shirt",
       category: "shirts",
-      images: ["/product3.png"],
-      priceInDollar: 12.99,
-      priceInRobux: 999,
-      link: "https://www.roblox.com/catalog/456789123"
+      images: ["/redly.png"],
+      priceInDollar: 0.09,
+      priceInRobux: 7,
+      link: "https://www.roblox.com/catalog/90540387362497/Red-DCP-productions-Shirt"
     },
     {
       id: 4,
-      name: "Gaming Pants",
-      category: "pants",
-      images: ["/product4.png"],
-      priceInDollar: 10.00,
-      priceInRobux: 799,
-      link: "https://www.roblox.com/catalog/321654987"
+      name: "Orange DCP productions shirt",
+      category: "shirts",
+      images: ["/orangy.png"],
+      priceInDollar: 0.09,
+      priceInRobux: 7,
+      link: "https://www.roblox.com/catalog/72422147890224/Orange-DCP-productions-shirt"
     },
     {
       id: 5,
-      name: "Epic Hoodie",
+      name: "Black DCP productions shirt",
       category: "shirts",
-      images: ["/product5.png"],
-      priceInDollar: 18.99,
-      priceInRobux: 1599,
-      link: "https://www.roblox.com/catalog/741852963"
+      images: ["/blacky.png"],
+      priceInDollar: 0.09,
+      priceInRobux: 7,
+      link: "https://www.roblox.com/catalog/96122415098963/Black-DCP-productions-shirt"
     },
     {
       id: 6,
-      name: "Classic Pants",
+      name: "Pink DCP productions shirt",
       category: "pants",
-      images: ["/product6.png"],
-      priceInDollar: 14.50,
-      priceInRobux: 1199,
-      link: "https://www.roblox.com/catalog/159357486"
+      images: ["/pinky.png"],
+      priceInDollar: 0.09,
+      priceInRobux: 7,
+      link: "https://www.roblox.com/catalog/111372101102112/Pink-DCP-productions-shirt"
     }
   ];
 
