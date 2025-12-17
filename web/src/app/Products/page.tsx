@@ -13,7 +13,7 @@ export default function Products({ category }: ProductsProps) {
       id: 1,
       name: "Green DCP productions shirt",
       category: "shirts",
-      images: ["/grenny.png"],
+      images: ["/grenny.webp"],
       priceInDollar: 0.09,
       priceInRobux: 7,
       link: "https://www.roblox.com/catalog/139779926115544/Green-DCP-productions-shirt"
@@ -22,7 +22,7 @@ export default function Products({ category }: ProductsProps) {
       id: 2,
       name: "Blue DCP productions shirt",
       category: "shirts",
-      images: ["/bluely.png"],
+      images: ["/bluely.webp"],
       priceInDollar: 0.09,
       priceInRobux: 7,
       link: "https://www.roblox.com/catalog/127517652637346/Blue-DCP-productions-shirt"
@@ -31,7 +31,7 @@ export default function Products({ category }: ProductsProps) {
       id: 3,
       name: "Red DCP productions Shirt",
       category: "shirts",
-      images: ["/redly.png"],
+      images: ["/redly.webp"],
       priceInDollar: 0.09,
       priceInRobux: 7,
       link: "https://www.roblox.com/catalog/90540387362497/Red-DCP-productions-Shirt"
@@ -40,7 +40,7 @@ export default function Products({ category }: ProductsProps) {
       id: 4,
       name: "Orange DCP productions shirt",
       category: "shirts",
-      images: ["/orangy.png"],
+      images: ["/orangy.webp"],
       priceInDollar: 0.09,
       priceInRobux: 7,
       link: "https://www.roblox.com/catalog/72422147890224/Orange-DCP-productions-shirt"
@@ -49,7 +49,7 @@ export default function Products({ category }: ProductsProps) {
       id: 5,
       name: "Black DCP productions shirt",
       category: "shirts",
-      images: ["/blacky.png"],
+      images: ["/blacky.webp"],
       priceInDollar: 0.09,
       priceInRobux: 7,
       link: "https://www.roblox.com/catalog/96122415098963/Black-DCP-productions-shirt"
@@ -58,7 +58,7 @@ export default function Products({ category }: ProductsProps) {
       id: 6,
       name: "Pink DCP productions shirt",
       category: "pants",
-      images: ["/pinky.png"],
+      images: ["/pinky.webp"],
       priceInDollar: 0.09,
       priceInRobux: 7,
       link: "https://www.roblox.com/catalog/111372101102112/Pink-DCP-productions-shirt"
