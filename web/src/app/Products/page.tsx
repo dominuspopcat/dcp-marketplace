@@ -57,7 +57,7 @@ export default function Products({ category }: ProductsProps) {
     {
       id: 6,
       name: "Pink DCP productions shirt",
-      category: "pants",
+      category: "shirts",
       images: ["/pinky.webp"],
       priceInDollar: 0.09,
       priceInRobux: 7,
