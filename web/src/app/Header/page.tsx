@@ -39,7 +39,7 @@ export default function Header() {
           <a href="https://www.youtube.com/@Aradkhadem4" target="_blank" rel="noopener noreferrer">
             <Image src="/youtube-icon.svg" alt="YouTube" width={64} height={64} />
           </a>
-          <a href="https://discord.gg/Q9Aryhrz9F" target="_blank" rel="noopener noreferrer">
+          <a href="https://discord.gg/RBKac3DYHP" target="_blank" rel="noopener noreferrer">
             <Image src="/discord-icon.svg" alt="Discord" width={64} height={64} />
           </a>
         </div>
